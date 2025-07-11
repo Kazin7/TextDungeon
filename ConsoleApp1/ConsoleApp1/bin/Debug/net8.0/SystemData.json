@@ -1,0 +1,171 @@
+{
+  "Player": {
+    "Level": 2,
+    "Name": "hunterspin",
+    "Job": "\uC804\uC0AC",
+    "AtkDmg": 10.5,
+    "Def": 6,
+    "Hp": 85,
+    "Gold": 675,
+    "DungeonClear": 0,
+    "EquippedItems": [
+      {
+        "Name": "\uC2A4\uD30C\uB974\uD0C0\uC758 \uCC3D",
+        "Description": "\uC804\uC124\uC758 \uCC3D\uC785\uB2C8\uB2E4.",
+        "Type": 0,
+        "StatValue": 7,
+        "Price": 2000,
+        "IsEquipped": true,
+        "IsPurchased": true
+      },
+      {
+        "Name": "\uBB34\uC1E0\uAC11\uC637",
+        "Description": "\uBB34\uC1E0\uB85C \uB9CC\uB4E4\uC5B4\uC838 \uD2BC\uD2BC\uD55C \uAC11\uC637\uC785\uB2C8\uB2E4.",
+        "Type": 1,
+        "StatValue": 5,
+        "Price": 1000,
+        "IsEquipped": true,
+        "IsPurchased": false
+      },
+      {
+        "Name": "\uB0A1\uC740 \uD22C\uAD6C",
+        "Description": "\uBC29\uB791\uAC1D\uC774\uB358 \uD22C\uC0AC\uAC00 \uC4F0\uB358 \uD22C\uAD6C\uC785\uB2C8\uB2E4.",
+        "Type": 2,
+        "StatValue": 10,
+        "Price": 2000,
+        "IsEquipped": true,
+        "IsPurchased": false
+      }
+    ]
+  },
+  "Inventory": [
+    {
+      "Name": "\uB0A1\uC740 \uAC80",
+      "Description": "\uC27D\uAC8C \uBCFC \uC218 \uC788\uB294 \uB0A1\uC740 \uAC80 \uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 2,
+      "Price": 600,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uBB34\uC1E0\uAC11\uC637",
+      "Description": "\uBB34\uC1E0\uB85C \uB9CC\uB4E4\uC5B4\uC838 \uD2BC\uD2BC\uD55C \uAC11\uC637\uC785\uB2C8\uB2E4.",
+      "Type": 1,
+      "StatValue": 5,
+      "Price": 1000,
+      "IsEquipped": true,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uB0A1\uC740 \uD22C\uAD6C",
+      "Description": "\uBC29\uB791\uAC1D\uC774\uB358 \uD22C\uC0AC\uAC00 \uC4F0\uB358 \uD22C\uAD6C\uC785\uB2C8\uB2E4.",
+      "Type": 2,
+      "StatValue": 10,
+      "Price": 2000,
+      "IsEquipped": true,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uD5D0\uAC70\uC6B4 \uD5C8\uB9AC\uB760",
+      "Description": "\uCCB4\uB825\uC744 \uBCF4\uAC15\uD574\uC8FC\uB294 \uB0A1\uC740 \uD5C8\uB9AC\uB760\uC785\uB2C8\uB2E4.",
+      "Type": 2,
+      "StatValue": 5,
+      "Price": 800,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uD6C8\uB828\uC6A9 \uBAA9\uAC80",
+      "Description": "\uCD08\uBCF4\uC790\uB4E4\uC774 \uC4F0\uB294 \uAC00\uBCBC\uC6B4 \uB098\uBB34\uAC80\uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 1,
+      "Price": 2000,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uC2A4\uD30C\uB974\uD0C0\uC758 \uCC3D",
+      "Description": "\uC804\uC124\uC758 \uCC3D\uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 7,
+      "Price": 2000,
+      "IsEquipped": true,
+      "IsPurchased": true
+    }
+  ],
+  "Shop": [
+    {
+      "Name": "\uC218\uB828\uC790 \uAC11\uC637",
+      "Description": "\uC218\uB828\uC5D0 \uB3C4\uC6C0\uC744 \uC8FC\uB294 \uAC11\uC637\uC785\uB2C8\uB2E4.",
+      "Type": 1,
+      "StatValue": 5,
+      "Price": 1000,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uBB34\uC1E0\uAC11\uC637",
+      "Description": "\uBB34\uC1E0\uB85C \uB9CC\uB4E4\uC5B4\uC838 \uD2BC\uD2BC\uD55C \uAC11\uC637\uC785\uB2C8\uB2E4.",
+      "Type": 1,
+      "StatValue": 9,
+      "Price": 1500,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uC2A4\uD30C\uB974\uD0C0\uC758 \uAC11\uC637",
+      "Description": "\uC2A4\uD30C\uB974\uD0C0\uC758 \uC804\uC0AC\uB4E4\uC774 \uC0AC\uC6A9\uD588\uB2E4\uB294 \uC804\uC124\uC758 \uAC11\uC637\uC785\uB2C8\uB2E4.",
+      "Type": 1,
+      "StatValue": 15,
+      "Price": 3500,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uB0A1\uC740 \uAC80",
+      "Description": "\uC27D\uAC8C \uBCFC \uC218 \uC788\uB294 \uB0A1\uC740 \uAC80 \uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 2,
+      "Price": 600,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uCCAD\uB3D9 \uB3C4\uB07C",
+      "Description": "\uC5B4\uB514\uC120\uAC00 \uC0AC\uC6A9\uB410\uB358\uAC70 \uAC19\uC740 \uB3C4\uB07C\uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 5,
+      "Price": 1500,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uC2A4\uD30C\uB974\uD0C0\uC758 \uCC3D",
+      "Description": "\uC804\uC124\uC758 \uCC3D\uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 7,
+      "Price": 2000,
+      "IsEquipped": true,
+      "IsPurchased": true
+    },
+    {
+      "Name": "\uC0DD\uBA85\uB825 \uD5C8\uB9AC\uB760",
+      "Description": "\uCCB4\uB825\uC744 \uBCF4\uAC15\uD574\uC8FC\uB294 \uB9C8\uBC95\uC774 \uAE43\uB4E0 \uD5C8\uB9AC\uB760\uC785\uB2C8\uB2E4.",
+      "Type": 2,
+      "StatValue": 12,
+      "Price": 1500,
+      "IsEquipped": false,
+      "IsPurchased": false
+    },
+    {
+      "Name": "\uBC88\uAC1C\uC758 \uB2E8\uAC80",
+      "Description": "\uBE60\uB978 \uACF5\uACA9\uC774 \uAC00\uB2A5\uD55C \uB2E8\uAC80\uC785\uB2C8\uB2E4.",
+      "Type": 0,
+      "StatValue": 10,
+      "Price": 3000,
+      "IsEquipped": false,
+      "IsPurchased": false
+    }
+  ]
+}
