@@ -17,13 +17,15 @@
 
 ---
 
-## 🗂️ 파일 구조
-ConsoleApp1/
-├── Program.cs # 메인 게임 루프 및 메뉴
-├── Character.cs # 캐릭터 데이터 및 레벨업 로직
-├── Item.cs # 아이템 정보 및 출력 메서드
-├── SaveSystem.cs # 저장 및 불러오기 로직
-├── SystemData.json # 게임 데이터 저장 파일 (자동 생성됨)
+## 📁 파일 구조
+
+| 파일명             | 설명                    |
+| --------------- | --------------------- |
+| Program.cs      | 메인 게임 루프 및 메뉴         |
+| Character.cs    | 캐릭터 데이터 및 레벨업 로직      |
+| Item.cs         | 아이템 정보 및 출력 메서드       |
+| SaveSystem.cs   | 저장 및 불러오기 로직          |
+| SystemData.json | 게임 데이터 저장 파일 (자동 생성됨) |
 
 
 ---
